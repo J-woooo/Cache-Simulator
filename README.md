@@ -38,4 +38,5 @@ Overall hit rate: 0.300000
 ## Addtions
 
 Clear unnecessary parts for LRU simulating.
-additional 8- and 16-way to increase cache hit rate
+
+additional 8- and 16-way to increase cache hit rate.
